@@ -1,0 +1,22 @@
+[
+  {
+    "featureType": "water",
+    "stylers": [
+      {
+        "weight": 5.5
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "saturation": 45
+      },
+      {
+        "lightness": 40
+      }
+    ]
+  }
+]
